@@ -94,7 +94,9 @@ For questions or collaborations, please connect with me on LinkedIn:
 ---
 <div align="center">
 
-<a href="https://cytos.dev" target="_blank"><code>&lt;/&gt; cytos.dev</code></a>
+<a href="https://cytos.dev" target="_blank">
+  <img src="https://img.shields.io/badge/%3C%2F%3E-cytos.dev-63b6ec?style=for-the-badge" alt="cytos.dev portfolio">
+</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/your-actual-profile-url-here/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Balaji%20Ramanathan-blue?style=flat&logo=linkedin" alt="LinkedIn">
@@ -103,5 +105,3 @@ For questions or collaborations, please connect with me on LinkedIn:
 <p><em>© 2025 Balaji Ramanathan</em></p>
 
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji%20Ramanathan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drbalaji96/)
