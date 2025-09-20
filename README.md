@@ -91,7 +91,6 @@ This project utilizes the NIH Chest X-ray Dataset, collected and made available 
 ### Contact
 For questions or collaborations, please connect with me on LinkedIn:
 
----
 <table border="0" align="center">
 <tr>
   <td valign="middle">
@@ -112,3 +111,6 @@ For questions or collaborations, please connect with me on LinkedIn:
 <div align="center">
   <p><em>© 2025 Balaji Ramanathan</em></p>
 </div>
+
+---
+
