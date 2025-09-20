@@ -91,4 +91,4 @@ This project utilizes the NIH Chest X-ray Dataset, collected and made available 
 ### Contact
 For questions or collaborations, please connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji Ramanathan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drbalaji96/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_name-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/drbalaji96/)
