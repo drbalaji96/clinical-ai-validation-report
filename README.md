@@ -92,16 +92,24 @@ This project utilizes the NIH Chest X-ray Dataset, collected and made available 
 For questions or collaborations, please connect with me on LinkedIn:
 
 ---
+---
+<table border="0" align="center">
+<tr>
+  <td valign="middle">
+    <a href="https://cytos.dev" target="_blank">
+      <img src="https://img.shields.io/badge/%3C%2F%3E-cytos.dev-00599C?style=for-the-badge" alt="cytos.dev portfolio">
+    </a>
+    <br>
+    <a href="https://www.linkedin.com/in/your-actual-profile-url-here/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+  </td>
+  <td valign="middle" align="left" style="padding-left:20px;">
+    <h3 style="margin: 0;">Balaji Ramanathan</h3>
+  </td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://cytos.dev" target="_blank">
-  <img src="https://img.shields.io/badge/%3C%2F%3E-cytos.dev-63b6ec?style=for-the-badge" alt="cytos.dev portfolio">
-</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/your-actual-profile-url-here/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Balaji%20Ramanathan-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-
-<p><em>© 2025 Balaji Ramanathan</em></p>
-
+  <p><em>© 2025 Balaji Ramanathan</em></p>
 </div>
