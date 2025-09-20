@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python virtual environment
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Large data files - VERY IMPORTANT
+# Add the names of your large dataset files/folders to prevent uploading them
+images/
+images_*.zip
+*.zip
+
+# Credentials and secrets
+# Never commit your secret keys!
+google_credentials.json
+*.json
