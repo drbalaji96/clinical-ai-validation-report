@@ -3,7 +3,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-blue.svg)
 
-### Overview
+### # Overview
+<i class="fa-solid fa-file-lines"></i> This is the project overview [6].
+Overview
 This repository contains the full validation dossier for a deep learning model designed for diagnostic assistance in radiology. The project follows a framework aligned with regulatory standards for **Software as a Medical Device (SaMD)** to ensure a robust evaluation of the model's performance, safety, and fairness.
 
 ---
