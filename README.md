@@ -66,6 +66,7 @@ To replicate this analysis, please follow these steps:
 ---
 
 ### Project Structure
+```mermaid
 ├── reports/
 │   └── validation_report_final.pdf   # The final regulatory-style report
 ├── notebooks/
@@ -77,6 +78,7 @@ To replicate this analysis, please follow these steps:
 ├── .gitignore                        # Specifies files for Git to ignore
 ├── LICENSE                           # MIT License file
 └── README.md                         # This file
+```
 ---
 
 ### Acknowledgments
