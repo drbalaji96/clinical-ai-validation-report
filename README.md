@@ -1,13 +1,30 @@
-# clinical-ai-validation-report
-# AI Model Validation for Chest Radiograph Analysis
+# clinical-ai-validation-report# AI Model Validation for Chest Radiograph Analysis
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-blue.svg)
 
 This repository contains the full validation dossier for a deep learning model designed for diagnostic assistance in radiology, following a framework aligned with regulatory standards for Software as a Medical Device (SaMD).
 
 ---
 
-##  Intended Use Statement
+## Intended Use Statement
 
 > **Your statement goes here.** For example: "This software is intended to be used by qualified radiologists to assist in the detection of cardiomegaly in adult (18+) frontal chest radiographs. It is not intended for standalone diagnostic use and should serve as a concurrent read tool."
+
+---
+
+## Validation Process Overview
+
+*(Here you can eventually insert an image of your process flowchart)*
+
+
+---
+
+## Technology Stack
+* **Language:** Python 3.9
+* **Core Libraries:** TensorFlow, Pandas, Scikit-learn, Matplotlib
+* **Environment:** Google Colab, Google Drive
+* **Future Tools:** Vertex AI (for MLOps)
 
 ---
 
@@ -30,9 +47,7 @@ This analysis was performed on the **NIH Chest X-ray Dataset**, which contains o
     ```
 2.  **Set up the environment:**
     *(You will fill this in later with instructions on installing required Python libraries)*
-3.  **Run the analysis:**
-    *(You will fill this in later with instructions on how to run your main script or notebook)*
 
 ## Results
 
-A link to the final, consolidated **[Validation Dossier PDF](./validation_report_final.pdf)** will be available here upon completion of the analysis.
+A link to the final, consolidated **[Validation Dossier PDF](./reports/validation_report_final.pdf)** is available in the reports folder.
