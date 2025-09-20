@@ -108,9 +108,5 @@ For questions or collaborations, please connect with me on LinkedIn:
 </tr>
 </table>
 
-<div align="center">
-  <p><em>© 2025 Balaji Ramanathan</em></p>
-</div>
-
 ---
 
