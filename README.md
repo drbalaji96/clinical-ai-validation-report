@@ -66,18 +66,20 @@ To replicate this analysis, please follow these steps:
 ---
 
 ### Project Structure
+
 ```mermaid
-├── reports/
-│   └── validation_report_final.pdf   # The final regulatory-style report
-├── notebooks/
-│   └── main_analysis.ipynb           # Main notebook for data analysis and validation
-├── scripts/
-│   └── data_preprocessing.py         # Scripts for data cleaning and preparation
-├── images/
-│   └── SaMD_Validation_dossier.png   # Diagrams and images for the README
-├── .gitignore                        # Specifies files for Git to ignore
-├── LICENSE                           # MIT License file
-└── README.md                         # This file
+graph TD;
+    A(clinical-ai-validation-report) --> B(reports);
+    B --> B1(validation_report_final.pdf);
+    A --> C(notebooks);
+    C --> C1(main_analysis.ipynb);
+    A --> D(scripts);
+    D --> D1(data_preprocessing.py);
+    A --> E(images);
+    E --> E1(SaMD_Validation_dossier.png);
+    A --> F(.gitignore);
+    A --> G(LICENSE);
+    A --> H(README.md);
 ```
 ---
 
