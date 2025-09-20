@@ -15,7 +15,7 @@ This repository contains the full validation dossier for a deep learning model d
 
 ## Validation Process Overview
 
-![Validation Process Flowchart](images/validation_flowchart.png)
+![Validation Process Flowchart](images/SaMD_Validation_dossier.png)
 
 
 ---
