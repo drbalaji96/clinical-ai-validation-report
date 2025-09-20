@@ -15,7 +15,7 @@ This repository contains the full validation dossier for a deep learning model d
 
 ## Validation Process Overview
 
-*(Here you can eventually insert an image of your process flowchart)*
+![Validation Process Flowchart](images/validation_flowchart.png)
 
 
 ---
